@@ -11,4 +11,3 @@ dependencies:
   - pip:
       - pmdarima
       - esig
-prefix: /Users/mloning/.conda/envs/sktime-pydata
